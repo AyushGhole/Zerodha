@@ -11,3 +11,57 @@ Developed a full-stack Zerodha-inspired stock trading platform using MERN Stack.
 <li>Built a backend using Node.js, Express, and MongoDB for transaction management and user data storage.</li>
 <li>Deployed the platform on Render for accessibility.</li>
 </ul>
+<h1>Building Process : </h1> 
+<b>1. Planning & Research</b>
+<ul>
+  <li>Define project scope: Core features like live market data, authentication, dashboard, and trading simulation.</li>
+ <li>Research Zerodha’s UI/UX for design inspiration.</li> 
+  <li>Choose the MERN Stack (MongoDB, Express.js, React, Node.js) for development.</li>
+</ul>
+<br>
+<b>2. Setting Up the Project<b> 
+<ul>
+  <li>Initialize the React frontend with Vite or Create React App.</li> 
+  <li>Set up the backend using Node.js and Express.</li> 
+  <li>Configure MongoDB for user data and transaction storage.</li>
+</ul>
+<br>
+<b>3. Implementing Authentication </b> 
+<ul>
+  <li>Set up JWT-based authentication for secure login/signup.</li> 
+  <li>Implement OAuth (Google, GitHub) for seamless access.</li> 
+  <li>Store user credentials securely with bcrypt hashing.</li>
+</ul>
+  <br>
+<b>4. Integrating Stock Market Data</b> 
+<ul>
+  <li>Fetch and display real-time stock charts using Chart.js or Recharts.</li>
+  <li>Implement a search bar for users to look up stocks.</li>
+</ul>
+<br>
+<b> Building the Dashboard & UI/UX</b> 
+<ul>
+<li>Design a responsive dashboard with TailwindCSS or Material UI.
+</li>
+<li>Show portfolio tracking, watchlist, and market insights.</li> 
+<li>Add dark mode toggle for better user experience.</li>
+</ul>
+<br>
+<b>6. Implementing Core Features</b> 
+<ul>
+<li>Watchlist: Allow users to add/remove stocks from a watchlist.</li> 
+<li>Virtual Trading: Implement a feature to simulate stock purchases and sales.</li> 
+<li>Transaction History: Store past trades for tracking.</li>
+</ul>
+<br>
+<b>7. Backend Development & API Integration</b>
+<ul>
+  <li>Build RESTful APIs to handle user data, transactions, and stock info.</li> 
+  <li>Set up WebSockets for real-time price updates.</li> 
+  <li>Optimize API calls to reduce latency.</li>
+</ul>
+<br>
+<b>8. Deployment & Hosting</b> 
+<ul>
+  <li>Deploy using these Render</li>
+</ul>
