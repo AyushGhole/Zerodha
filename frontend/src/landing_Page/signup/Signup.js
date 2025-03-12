@@ -22,7 +22,7 @@ function SignUp() {
       console.log("Signup successful:", data);
 
       // ✅ Redirect to another React app
-      window.location.href = "http://localhost:3001"; // URL of second React app
+      window.location.href = "https://zerodha-dashboard-x7sl.onrender.com"; // URL of second React app
     } catch (error) {
       console.error("Network Error:", error.message);
     }
