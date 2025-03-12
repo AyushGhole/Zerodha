@@ -88,6 +88,6 @@ Developed a full-stack Zerodha-inspired stock trading platform using MERN Stack.
 <h3>Deployed Project Link : </h3>
 <br>
 <br>
-  <a href="https://meetvideocall.onrender.com/">
+  <a href="zerodha-frontend-h6my.onrender.com">
          <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
    </a>
