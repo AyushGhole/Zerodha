@@ -6,7 +6,7 @@ function SignUp() {
 
   const sendData = async () => {
     try {
-      const response = await fetch("http://localhost:3002/signup", {
+      const response = await fetch("https://zerodha-i94e.onrender.com/signup", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
