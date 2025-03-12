@@ -6,7 +6,7 @@ const Positions = () => {
   let [positions, setPositions] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:3002/allPositions").then((res) => {
+    axios.get("https://zerodha-i94e.onrender.com/allPositions").then((res) => {
       console.log(res.data);
       setPositions(res.data);
     });
